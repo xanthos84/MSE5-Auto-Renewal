@@ -1,5 +1,4 @@
-<div align="center"><h1>Microsoft E5 Auto Renewal</h1>
-<b>An open-source Python program made using <a href="https://github.com/pallets/quart">Quart</a> & <a href="https://github.com/encode/uvicorn">Uvicorn</a> for automatic renewal of Microsoft's Developer E5 subscription.</b></div><br>
+<div align="center"><h1>MSe5 Auto Renewal</h1>
 
 ## **📑 INDEX**
 
